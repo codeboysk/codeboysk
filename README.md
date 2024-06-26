@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @codeboysk
 - 👀 I’m a full-stack web developer
-- 🎥 Check my YouTube channel here https://www.youtube.com/@a_devs_life
+- 🎥 Check my YouTube channel here https://www.youtube.com/@codejungle
